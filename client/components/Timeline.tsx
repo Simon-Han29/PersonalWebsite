@@ -4,7 +4,7 @@ const Timeline = () => {
   return (
     <div className="min-h-[100%] flex justify-center items-center">
       <div className="flex flex-col justify-center items-center">
-        <h1 className="mb-24">My Computer Science Journey so Far</h1>
+        <h2 className="mb-24 text-2xl">My Computer Science Journey so Far</h2>
         <ul className="flex">
           <li className="border-t w-40 flex flex-col items-center">
             <div className="border h-10 bg-zinc-800"></div>
